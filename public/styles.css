@@ -1,0 +1,14 @@
+body {
+    background-color: blueviolet;
+}
+
+.image{
+    width: 50px;
+    height: 100px;
+}
+.red{
+    border: 1px solid wheat;
+  padding-top: 50px;
+
+    font-family: Georgia, serif;
+}
